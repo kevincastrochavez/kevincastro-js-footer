@@ -1,0 +1,25 @@
+{
+  "name": "js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with and updated year and name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevincastrochavez/kevincastro-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Kevin Castro <kevin.castro.chavez0@gmail.com> (https://github.com/kevincastrochavez)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevincastrochavez/kevincastro-js-footer/issues"
+  },
+  "homepage": "https://github.com/kevincastrochavez/kevincastro-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.26.0"
+  }
+}
